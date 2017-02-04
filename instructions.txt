@@ -1,0 +1,2 @@
+To run the main program execute "python main.py" in the command shell and the output will be displayed in the console/shell
+To print the output of the program into a text file (output.txt) instead of the shell execute "python main.py > output.txt"
